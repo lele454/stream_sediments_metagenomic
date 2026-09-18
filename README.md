@@ -119,8 +119,7 @@ make interpretable.
 
 ## Data availability
 
-Raw reads: NCBI SRA, BioProject [accession].
-Bracken reports, KO table and landscape data: [archive DOI].
+The raw sequencing data generated in this study has been deposited in the European Nucleotide Archive (ENA) and is publicly available under sample ID ERS12345678.
 
 ## Citation
 
