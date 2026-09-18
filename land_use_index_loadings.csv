@@ -1,0 +1,5 @@
+metric,PC1_loading,variance_explained
+Forest.cover,-0.6159422261111813,0.6544716267786727
+Cropland.cover,0.5614008646558255,
+Urban.cover,0.5436953148495303,
+Diversity_q1,-0.09919499920643399,

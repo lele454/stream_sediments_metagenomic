@@ -1,0 +1,15 @@
+Sample,Group,Municipality,Latitude,Longitude,Elevation (m),Width (m),Depth (m),Substrate,Water colour,Temperature (°C),Dissolved O2 (mg/L),O2 saturation (%)*,Conductivity (µS/cm),TDS (mg/L)*,pH,CDOM (RFU),Chlorophyll (RFU)†,Ammonia (RFU)†,Turbidity (NTU)‡
+Pres01,Preserved,EEJI,-24.3975,-47.125611,10,4.37,0.4,Stony,Light,25.7,8.8,21.6,23.1,15.4,8.5,43.4,46.4,35.08,-1857
+Pres02,Preserved,EEJI,-24.389722,-47.095,15,7.95,0.7,Sandy,Light,24.7,8.8,22.6,25.5,16.9,7.7,39.3,38.4,36.3,-1803
+Pres03,Preserved,EEJI,-24.379167,-47.079444,14,2.24,0.23,Stony,Light,24.7,8.4,21.2,30.1,20.0,8.3,53.1,55.6,41.95,-1820
+Pres04,Preserved,EEJI,-24.550833,-47.223611,26,1.8,0.18,Sandy,Light,25.2,4.9,12.4,62.3,41.6,6.8,120.2,84.65,99.14,-1867
+Pres05,Preserved,EEJI,-24.541389,-47.210833,24,3.7,0.18,Sandy,Light,25.1,8.9,22.1,52.9,35.2,7.3,57.07,58.6,45.6,-1828
+Pres06,Preserved,EEJI,-24.540333,-47.210111,13,2.2,0.2,Sandy,Dark,26.1,3.2,7.7,53.9,35.9,5.9,246.8,168.7,245.8,-1826
+Pres07,Preserved,EEJI,-24.468333,-47.119444,26,45992.0,0.12,Clayey,Dark,26.8,4.2,10.5,79.3,52.9,7.2,227.3,138.9,227.8,-1885
+Deg01,Degraded,Peruibe,-24.295889,-47.115944,48,2.8,0.3,Sandy,Light,23.9,8.0,19.7,93.1,62.1,8.4,114.1,142.9,96.42,-1832
+Deg02,Degraded,Guarau,-24.369056,-47.031139,2,4.4,0.76,Clayey,Dark,24.3,5.5,13.3,49.9,33.5,7.5,131.1,106.0,115.5,-1839
+Deg03,Degraded,Guarau,-24.362083,-47.016333,14,4.8,0.6,Sandy/clayey,Light,24.8,6.3,16.3,65.2,43.5,7.5,117.5,91.39,107.8,-1837
+Deg04,Degraded,Ana Dias,-24.296,-47.06875,40,2.2,0.2,Sandy/clayey,Light,23.8,6.1,17.6,71.5,47.6,8.4,60.94,88.0,52.91,-1798
+Deg05,Degraded,Peruibe,-24.300194,-47.042139,29,2.22,0.25,Clayey,Dark,24.7,2.5,6.4,72.4,48.8,7.1,206.1,116.9,204.1,-1814
+Deg06,Degraded,Pariquera-acu,-24.721972,-47.87575,-187,3.0,0.2,Sandy/clayey,Light,25.8,2.9,7.5,121.0,81.0,7.7,266.5,173.5,264.6,-1808
+Deg07,Degraded,Cananeia,-24.844722,-47.888889,-64,45939.0,1.0,Sandy,Light,24.5,8.8,21.7,51.5,34.3,7.8,50.03,50.41,46.48,-1867

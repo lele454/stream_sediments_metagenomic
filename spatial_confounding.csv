@@ -1,0 +1,21 @@
+test,statistic,p
+community ~ geography,-0.0383,0.8638
+community ~ Forest.cover,0.2487,0.0764
+geography ~ Forest.cover,0.3188,0.036
+community ~ Forest.cover | geography,0.2755,0.0575
+community ~ Cropland.cover,0.2108,0.0524
+geography ~ Cropland.cover,0.3674,0.0066
+community ~ Cropland.cover | geography,0.2419,0.033
+community ~ Urban.cover,0.0843,0.7319
+geography ~ Urban.cover,0.2107,0.1925
+community ~ Urban.cover | geography,0.0946,0.7008
+community ~ HFP,0.1788,0.196
+geography ~ HFP,0.3005,0.0304
+community ~ HFP | geography,0.1997,0.1473
+community ~ Elevacao,-0.0705,0.7681
+geography ~ Elevacao,0.5976,0.0033
+community ~ Elevacao | geography,-0.0595,0.8105
+community ~ Diversity_q1,0.1837,0.1753
+geography ~ Diversity_q1,0.0388,0.7951
+community ~ Diversity_q1 | geography,0.1855,0.174
+community ~ geography | all landscape,-0.1797,0.337

@@ -1,0 +1,7 @@
+,Forest.cover,Cropland.cover,Urban.cover,HFP,Elevacao,Diversity_q1
+Forest.cover,1.0,-0.934,-0.265,-0.741,0.086,0.178
+Cropland.cover,-0.934,1.0,0.045,0.631,-0.165,0.015
+Urban.cover,-0.265,0.045,1.0,0.378,0.047,-0.223
+HFP,-0.741,0.631,0.378,1.0,0.119,-0.301
+Elevacao,0.086,-0.165,0.047,0.119,1.0,-0.099
+Diversity_q1,0.178,0.015,-0.223,-0.301,-0.099,1.0

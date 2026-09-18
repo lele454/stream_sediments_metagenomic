@@ -1,0 +1,3 @@
+dataset,n_features,R2,F,p,stress,disp_preserved,disp_degraded
+Taxonomic (genus),2296,0.2114,3.217,0.007,0.0458,0.2564,0.2841
+Functional (KEGG KO),12976,0.1459,2.049,0.0184,0.1051,0.142,0.164

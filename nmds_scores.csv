@@ -1,0 +1,29 @@
+dataset,sample,status,NMDS1,NMDS2
+Taxonomic (genus),Pres01,preserved,0.1425,0.2849
+Taxonomic (genus),Pres02,preserved,0.2412,0.3242
+Taxonomic (genus),Pres03,preserved,0.1244,0.4945
+Taxonomic (genus),Pres04,preserved,0.2047,-0.0795
+Taxonomic (genus),Pres05,preserved,-0.0854,0.4057
+Taxonomic (genus),Pres06,preserved,-0.2989,0.5153
+Taxonomic (genus),Pres07,preserved,-1.1293,0.6753
+Taxonomic (genus),Deg01,degraded,-0.0228,0.2467
+Taxonomic (genus),Deg02,degraded,-0.0354,-0.3343
+Taxonomic (genus),Deg03,degraded,0.0333,-0.2509
+Taxonomic (genus),Deg04,degraded,0.4491,-0.466
+Taxonomic (genus),Deg05,degraded,0.6874,-1.5218
+Taxonomic (genus),Deg06,degraded,-0.3492,-0.2933
+Taxonomic (genus),Deg07,degraded,0.0382,-0.001
+Functional (KEGG KO),Pres01,preserved,0.4081,-0.2215
+Functional (KEGG KO),Pres02,preserved,0.2909,-0.3494
+Functional (KEGG KO),Pres03,preserved,0.4003,-0.3861
+Functional (KEGG KO),Pres04,preserved,-0.1358,0.1447
+Functional (KEGG KO),Pres05,preserved,0.0351,-0.4211
+Functional (KEGG KO),Pres06,preserved,-0.1326,-0.6573
+Functional (KEGG KO),Pres07,preserved,-0.8697,-0.5597
+Functional (KEGG KO),Deg01,degraded,0.2263,-0.3538
+Functional (KEGG KO),Deg02,degraded,0.6091,0.4853
+Functional (KEGG KO),Deg03,degraded,0.3511,0.372
+Functional (KEGG KO),Deg04,degraded,-0.0818,0.5406
+Functional (KEGG KO),Deg05,degraded,-0.5607,1.3785
+Functional (KEGG KO),Deg06,degraded,-0.6168,0.1019
+Functional (KEGG KO),Deg07,degraded,0.0765,-0.0739

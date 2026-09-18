@@ -1,0 +1,23 @@
+marker,guild,detected_in,preserved_median,degraded_median,log2FC,p,q
+amoA / pmoA,Ammonia / methane oxidation (shared),14,5.538,9.19,0.8359,0.0728,0.2289
+amoB / pmoB,Ammonia / methane oxidation (shared),14,6.121,11.2,0.9462,0.0973,0.2676
+amoC / pmoC,Ammonia / methane oxidation (shared),14,9.035,11.815,0.3287,0.2593,0.4754
+hao,Ammonia / methane oxidation (shared),14,2.628,6.895,1.1921,0.0262,0.0962
+narG / nxrA,Denitrification,14,61.241,80.82,0.4833,0.0023,0.0171
+napA,Denitrification,14,13.649,22.318,0.6889,0.0175,0.0769
+nirK,Denitrification,14,41.68,54.597,0.1033,0.3176,0.5375
+nirS,Denitrification,14,6.412,13.649,1.1775,0.0023,0.0171
+norB,Denitrification,14,18.945,24.795,0.2392,0.2086,0.459
+nosZ,Denitrification,14,12.264,20.39,0.8451,0.0012,0.0171
+sat,Sulfate reduction,14,23.737,18.374,-0.2225,0.4557,0.7161
+aprA,Sulfate reduction,14,18.397,24.795,0.1158,0.9015,0.9917
+dsrA,Sulfate reduction,13,4.081,6.126,0.4973,0.2593,0.4754
+dsrB,Sulfate reduction,13,3.909,7.002,-0.0041,1.0,1.0
+soxB,Sulfur oxidation,14,19.583,17.849,-0.0201,0.8048,0.9318
+fccB,Sulfur oxidation,14,6.805,4.184,-0.6218,0.0175,0.0769
+fwdA,Methanogenesis,14,15.256,13.649,0.0418,0.535,0.7713
+mtrA,Methanogenesis,12,0.874,1.532,-0.0523,1.0,1.0
+mcrA,Methanogenesis,10,0.558,1.313,0.5059,0.561,0.7713
+mcrB,Methanogenesis,7,0.0,1.05,1.364,0.1724,0.4215
+mcrG,Methanogenesis,8,0.0,1.305,0.1075,0.6899,0.8432
+mtaB,Methanogenesis,9,0.558,0.438,-0.3957,0.6012,0.778

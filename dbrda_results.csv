@@ -1,0 +1,9 @@
+term,n_terms,R2,p
+land use intensity index (PC1),1,0.1885,0.0188
+Forest.cover,1,0.1826,0.0205
+Cropland.cover,1,0.2118,0.0065
+Urban.cover,1,0.0998,0.272
+HFP,1,0.1795,0.026
+Elevacao,1,0.0707,0.3485
+Diversity_q1,1,0.1756,0.0225
+all six metrics (not interpreted),6,0.5746,0.1361
