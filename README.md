@@ -1,6 +1,7 @@
-# Microbial communities in Atlantic Forest stream sediments
+# Association between land-use intensity and redox reorganization in prokaryotic guilds of Atlantic Rainforest stream sediments
 
-Code and derived tables for *[manuscript title]*.
+Code and derived tables for *Association between land-use intensity and redox reorganization in prokaryotic guilds of Atlantic Rainforest stream sediments
+*.
 
 Fourteen stream sediment metagenomes from the coastal plain of São Paulo,
 Brazil: seven inside the Juréia-Itatins Ecological Station and seven in
